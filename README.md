@@ -1,12 +1,18 @@
 # ESP32 Expantion Board
 
 ## Project Description
-
+The ESP32 Expansion Board is a compact and efficient development board designed to extend the functionality of the ESP32. This project was created using EasyEDA for schematic design, PCB layout, and 3D visualization.
 
 ---
 
-## 📍 Location
-Kalayaan Village, San Manuel
+## Features
+-Compatible with ESP32 DevKit modules
+-GPIO pin expansion headers
+-3.3V and 5V power distribution
+-AMS1117 voltage regulator support
+-Easy prototyping and wiring
+-Compact PCB layout
+-3D PCB design
 
 ---
 
