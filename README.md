@@ -6,13 +6,13 @@ The ESP32 Expansion Board is a compact and efficient development board designed 
 ---
 
 ## Features
--Compatible with ESP32 DevKit modules
--GPIO pin expansion headers
--3.3V and 5V power distribution
--AMS1117 voltage regulator support
--Easy prototyping and wiring
--Compact PCB layout
--3D PCB design
+- Compatible with ESP32 DevKit modules
+- GPIO pin expansion headers
+- 3.3V and 5V power distribution
+- AMS1117 voltage regulator support
+- Easy prototyping and wiring
+- Compact PCB layout
+- 3D PCB design
 
 ---
 
