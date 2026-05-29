@@ -1,7 +1,7 @@
-# Laurenze David T. Fronda
+# ESP32 Expantion Board
 
-## 🚀 About Me
-I am Laurenze who enjoys electronics, Arduino projects, PCB design,  programming in C++, and creating simple design.
+## Project Description
+
 
 ---
 
