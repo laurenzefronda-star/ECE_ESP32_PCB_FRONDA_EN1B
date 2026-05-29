@@ -44,35 +44,17 @@ The ESP32 Expansion Board is a compact and efficient development board designed 
 - EasyEDA
 - GetHub
 
-
 ---
 
 ## Author Name
 
 #Laurenze David T. Fronda
-
-
-
-
-### 🔹 PCB Design Practice
-Created PCB layouts using EasyEDA.
-,Create Schematic using EasyEDA.
-
----
-
-## 🍜 Favorite Food
-- Adobo
-- Fried Chicken
-
----
-
-## 🔮 future  Goals 
-- create my own name and design.
-
-## 📫 Contact
-- GitHub: Laurenzefronda-star
+- GetHub:LaurenzeFronda-star
 - frondafamily002@gmail.com
 
 ---
 
-⭐ Thanks for visiting my portfolio!
+# Course & Section
+- Electronic Engineering & EN1B
+
+---
