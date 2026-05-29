@@ -16,12 +16,24 @@ The ESP32 Expansion Board is a compact and efficient development board designed 
 
 ---
 
-## 🎯 Hobbies
-- 🥊 Boxing
-- ✈️ Travel
-- 💻 Coding
-- 🔌 Electronics Projects
-- 💡 Schematic diagram 
+## Components Used in the ESP32 Expansion Board
+##Main Components
+- ESP32 DevKit V1 — Main microcontroller module
+- AMS1117-3.3 Voltage Regulator — Converts 5V to 3.3V
+## Power Section
+- DC Power Input Connector
+- Slide Switch / Power Switch
+- 100µF Capacitors
+- 0.1µF Decoupling Capacitors
+- Power Indicator LED
+- 1kΩ Resistor for LED
+## Pin Expansion Components
+- Female Header 1x15
+- Female Header 1x19
+- Male Pin Headers
+- GPIO Breakout Headers
+- 3V3 and 5V Power Headers
+- GND Distribution Headers
 
 
 ---
